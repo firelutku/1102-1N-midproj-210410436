@@ -1,3 +1,9 @@
+Github repo URL
+[]https://github.com/firelutku/1102-1N-midproj-210410436
+
+Vercel URL(老師抱歉，繳交前Vercel尚未抓到我新的repository)
+[]https://vercel.com/dashboard
+
 ###綜合學習甘苦談
 #####上學期的CSS課程，讓我對靜態網頁產生了莫名的恐懼感，這學期的JavaScript課程，讓我既期待又很擔心，因為我一直希望能夠把JavaScript學好，尤其近幾年來，JavaScript的功能越來越強大，已經讓它躍升為強勢受歡迎的網頁語言。這學期老師也有明顯放慢教學腳步，為了讓我們能夠盡量吸收老師的教學內容。感覺上，JavaScript相對於CSS，我比較能夠在課堂上吸收到老師的教學內容，課堂作業也比較能夠現場完成，謝謝老師。
 
